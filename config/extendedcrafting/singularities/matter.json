@@ -1,0 +1,11 @@
+{
+  "name": "singularity.extendedcrafting.matter",
+  "colors": [
+    "FF69B4",
+    "4B0082"
+  ],
+  "ingredient": {
+    "item": "projectex:violet_matter",
+    "count": 4096
+  }
+}

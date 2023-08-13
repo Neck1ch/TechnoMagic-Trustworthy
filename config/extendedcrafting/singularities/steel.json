@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.steel",
+  "colors": [
+    "565656",
+    "565656"
+  ],
+  "ingredient": {
+    "item": "emendatusenigmatica:steel_block"
+  }
+}

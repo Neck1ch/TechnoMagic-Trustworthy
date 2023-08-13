@@ -1,0 +1,11 @@
+{
+  "name": "singularity.extendedcrafting.refined_glowstone",
+  "colors": [
+    "ffbc5e",
+    "b47140"
+  ],
+  "ingredient": {
+    "item": "mekanism:block_refined_glowstone",
+    "count": 6144
+  }
+}

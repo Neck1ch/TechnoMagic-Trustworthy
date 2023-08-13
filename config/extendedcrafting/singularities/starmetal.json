@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.starmetal",
+  "colors": [
+    "031b5f",
+    "0d6bea"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/starmetal"
+  }
+}

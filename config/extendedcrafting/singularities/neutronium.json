@@ -1,0 +1,11 @@
+{
+  "name": "singularity.extendedcrafting.neutronium",
+  "colors": [
+    "111111",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "endless:neutronium_ingot",
+    "count": 128
+  }
+}

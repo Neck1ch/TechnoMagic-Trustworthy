@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.osmium",
+    "colors": [
+      "87CEFA",
+      "87CEEB"
+    ],
+    "ingredient": {
+      "item": "emendatusenigmatica:osmium_block"
+    }
+  }

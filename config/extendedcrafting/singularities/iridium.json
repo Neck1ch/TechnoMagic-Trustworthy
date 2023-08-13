@@ -1,0 +1,11 @@
+{
+  "name": "singularity.extendedcrafting.iridium",
+  "colors": [
+    "D8BFD8",
+    "FF00FF"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/iridium",
+    "count": 6144
+  }
+}
