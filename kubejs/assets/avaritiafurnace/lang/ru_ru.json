@@ -1,0 +1,20 @@
+{
+  "block.avaritiafurnace.fuel_compressor": "Топливный компрессор",
+  "tile.infinityfurnace.name": "Магистральная Печь",
+  "tile.triplecompressedfurnace.name": "Трёх-Сжатая Печь",
+  "tile.enhanced_infinity_furnace.name": "Зачарованная Магистральная Печь",
+  "item.avaritiafurnace.infinity_fuel": "Магистральный Уголь",
+  "gamerule.avaritiaFurnaceProcessSpeed": "Быстрая Магистральная Печь",
+  "block.avaritiafurnace.compressed_furnace": "Скомпресованная Печь",
+  "tile.fuelcompressor.name": "Топливный Компрессор",
+  "block.avaritiafurnace.creativ_generator": "Творческие Генератор",
+  "item.infinityfuel.name": "Бесконечное Топливо",
+  "itemGroup.tabavaritia_furnace": "Магистральная Печь",
+  "tile.infinity_furnace_chest.name": "Бесконечный Топочный Сундук",
+  "block.avaritiafurnace.infinity_furnace": "Бесконечная Печь",
+  "gamerule.avaritiaFurnaceProcessSpeed.description": "Exponential factor v (time^v) for smelting time in ticks",
+  "block.avaritiafurnace.double_compressed_furnace": "Двойная Сжатая печь",
+  "block.avaritiafurnace.triple_compressed_furnace": "Тройная Сжатая печь",
+  "tile.compressedfurnace.name": "Сжатая печь",
+  "tile.doublecompessedfurnace.name": "Двойная Сжатая печь"
+}
