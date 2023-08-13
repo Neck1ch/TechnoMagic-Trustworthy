@@ -1,0 +1,10 @@
+{
+	chapter_groups: [
+		{ id: "7E7679667035C90B", title: "&4◆ Изучения" }
+		{ id: "4095FCD58404E803", title: "&b◆ Технологии" }
+		{ id: "52BE7A8BBC447F85", title: "&d◆ Магия" }
+		{ id: "7126F557989647B0", title: "&e◆ Инструменты" }
+		{ id: "5623DE7BDFBE28AD", title: "&a◆ Ресурсы" }
+		{ id: "7DA566DCF82349A9", title: "&d&l◆ Техно Магия" }
+	]
+}

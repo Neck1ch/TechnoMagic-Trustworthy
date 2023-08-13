@@ -1,0 +1,17 @@
+{
+    "mysticalagriculture:energized_steel": {
+    "enabled": false
+    },
+    "mysticalagriculture:mithril": {
+        "enabled": false
+    },
+    "mysticalagriculture:chrome": {
+        "enabled": false
+    },
+    "mysticalagriculture:titanium": {
+        "enabled": false
+    },
+    "mysticalagriculture:tungsten": {
+        "enabled": false
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "§bMythic",
+    "value": 7,
+    "farmland": "trustworthy:mythic_soil",
+    "essence": "mysticalagradditions:insanium_block",
+    "fertilizable": false,
+    "secondarySeedDrop": false
+}

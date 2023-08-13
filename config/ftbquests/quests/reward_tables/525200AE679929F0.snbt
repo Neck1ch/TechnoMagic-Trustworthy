@@ -1,0 +1,17 @@
+{
+	id: "525200AE679929F0"
+	order_index: 7
+	title: "Утешительный приз"
+	icon: "botania:corporea_index"
+	loot_size: 1
+	rewards: [
+		{ item: "appliedenergistics2:1k_fluid_cell_component" }
+		{ item: "appliedenergistics2:4k_fluid_cell_component" }
+		{ item: "appliedenergistics2:16k_fluid_cell_component" }
+		{ item: "appliedenergistics2:64k_fluid_cell_component" }
+		{ item: "ae2extras:256k_fluid_cell_component" }
+		{ item: "ae2extras:1m_fluid_cell_component" }
+		{ item: "ae2extras:4m_fluid_cell_component" }
+		{ item: "ae2extras:16m_fluid_cell_component" }
+	]
+}

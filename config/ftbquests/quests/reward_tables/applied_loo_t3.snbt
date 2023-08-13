@@ -1,0 +1,17 @@
+{
+	id: "296C4F94E63F613B"
+	order_index: 5
+	title: "applied_loo_t3"
+	icon: "botania:corporea_index"
+	loot_size: 1
+	rewards: [
+		{ item: "appliedenergistics2:1k_cell_component", weight: 40 }
+		{ item: "appliedenergistics2:4k_cell_component", weight: 30 }
+		{ item: "appliedenergistics2:16k_cell_component", weight: 25 }
+		{ item: "appliedenergistics2:64k_cell_component", weight: 20 }
+		{ item: "ae2extras:256k_cell_component" }
+		{ item: "ae2extras:1m_cell_component" }
+		{ item: "ae2extras:4m_cell_component" }
+		{ item: "ae2extras:16m_cell_component" }
+	]
+}

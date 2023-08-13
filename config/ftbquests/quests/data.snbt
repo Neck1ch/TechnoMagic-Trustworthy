@@ -1,0 +1,218 @@
+{
+	version: 13
+	title: "&dTechnoMagic - Trustworthy"
+	icon: {
+		id: "endless:infinity_totem"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_reward_team: true
+	default_consume_items: false
+	default_autoclaim_rewards: "disabled"
+	default_quest_shape: "circle"
+	default_quest_disable_jei: false
+	emergency_items: [{
+		id: "akashictome:tome"
+		Count: 1b
+		tag: {
+			"akashictome:is_morphing": 1b
+			"akashictome:data": {
+				industrialforegoing: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "industrialforegoing:industrial_foregoing"
+					}
+				}
+				resourcefulbees: {
+					id: "resourcefulbees:beepedia"
+					Count: 1b
+				}
+				astralsorcery: {
+					id: "astralsorcery:tome"
+					Count: 1b
+					tag: {
+						"akashictome:displayName": {
+							text: "Astral Tome (верни32 числа в библиотеку)"
+						}
+						"akashictome:is_morphing": 1b
+						display: {
+							Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Astral Tome (верни32 числа в библиотеку)\"}]}"
+						}
+					}
+				}
+				babyfat: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "babyfat:the_book_of_baby_fat"
+					}
+				}
+				psi: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "psi:encyclopaedia_psionica"
+					}
+				}
+				immersiveengineering: {
+					id: "immersiveengineering:manual"
+					Count: 1b
+				}
+				fd_cookbook: {
+					id: "fd_cookbook:cook_book"
+					Count: 1b
+				}
+				eidolon: {
+					id: "eidolon:codex"
+					Count: 1b
+				}
+				extendedcrafting: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"akashictome:displayName": {
+							text: "Extended Crafting"
+						}
+						"patchouli:book": "extendedcrafting:guide"
+						"akashictome:is_morphing": 1b
+						display: {
+							Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Extended Crafting\"}]}"
+						}
+					}
+				}
+				botania: {
+					id: "botania:lexicon"
+					Count: 1b
+					tag: {
+						"botania:elven_unlock": 1b
+					}
+				}
+				draconicevolution: {
+					id: "draconicevolution:info_tablet"
+					Count: 1b
+					tag: {
+						"akashictome:displayName": {
+							text: "Информационный планшет"
+						}
+						"akashictome:is_morphing": 1b
+						display: {
+							Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Информационный планшет\"}]}"
+						}
+					}
+				}
+				thermal: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"akashictome:displayName": {
+							text: "Thermalpedia"
+						}
+						"patchouli:book": "thermal:guidebook"
+						"akashictome:is_morphing": 1b
+						display: {
+							Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Thermalpedia\"}]}"
+						}
+					}
+				}
+				malum: {
+					id: "malum:encyclopedia_arcana"
+					Count: 1b
+					tag: {
+						"akashictome:displayName": {
+							text: "Энциклопедия Арканов"
+						}
+						"akashictome:is_morphing": 1b
+						display: {
+							Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Энциклопедия Арканов\"}]}"
+						}
+					}
+				}
+				powah: {
+					id: "powah:book"
+					Count: 1b
+				}
+				enigmaticlegacy: {
+					id: "enigmaticlegacy:hunter_guide"
+					Count: 1b
+				}
+				thermopolium: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "thermopolium:book"
+					}
+				}
+				foragecraft: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "foragecraft:book"
+					}
+				}
+				bigreactors: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "bigreactors:erguide"
+					}
+				}
+				solcarrot: {
+					id: "solcarrot:food_book"
+					Count: 1b
+				}
+				mysticalworld: {
+					id: "mysticalworld:encyclopedia"
+					Count: 1b
+					tag: {
+						"akashictome:displayName": {
+							text: "Encyclopædia Mysticum"
+						}
+						"akashictome:is_morphing": 1b
+						display: {
+							Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Encyclopædia Mysticum\"}]}"
+						}
+					}
+				}
+				bloodmagic: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "bloodmagic:guide"
+					}
+				}
+				betterendforge: {
+					id: "betterendforge:guidebook"
+					Count: 1b
+				}
+				mysticalagriculture: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "mysticalagriculture:guide"
+					}
+				}
+				cyclic: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "cyclic:cyclic_guide_book"
+					}
+				}
+			}
+		}
+	}]
+	emergency_items_cooldown: 5
+	drop_loot_crates: false
+	loot_crate_no_drop: {
+		passive: 4000
+		monster: 600
+		boss: 0
+	}
+	disable_gui: false
+	grid_scale: 0.5d
+	pause_game: false
+	lock_message: ""
+}

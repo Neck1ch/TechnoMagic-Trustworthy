@@ -1,0 +1,76 @@
+{
+	id: "77B7B71FDACBE08E"
+	order_index: 8
+	title: "Конечный ЛутБокс"
+	loot_size: 2
+	hide_tooltip: true
+	use_title: true
+	rewards: [
+		{
+			item: {
+				id: "minecraft:player_head"
+				Count: 1b
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							-170207412
+							1670270204
+							-2022243568
+							1362224349
+						]
+						Properties: {
+							textures: [{
+								Value: "ewogICJ0aW1lc3RhbXAiIDogMTY5MDcxNjc5MjA0MiwKICAicHJvZmlsZUlkIiA6ICJmNWRhZDc0YzYzOGU0Y2ZjODc3NzAzMTA1MTMxZTRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWNrMWNoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0YzcwZTA5YzYwODQ0MmE5MzM3MzU2MTM0NmU3OTQ1Y2ViNjY0YTc3MWVkZDJiNGYyNGM5NTIzNjIxMmY2NWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+								Signature: "Q8/LiCstZK+FcUvekVRjI3QBu/nW/2+ebRwo3Rm6YNxxBiWEZZ9fl1UZ9n4NGujjeQ4YdQlDfforflFKgV44z+sEcGMUiAftKhxQCvUp741OE0UOg31ZpW9/72gAks31s3LUjk/b0GdBVnJTTPRUcP0UDl+0chzw7NNFFKGATR54vRVLCmzYf7TsIchqVdOh4fNK1gVbMmn/Ip21c057VftXXBtmt/d9tMphBUF83AFe4yzh9NvgeKo1h5v302GoRyBtbZToe4u5f7sbNTwbMuM0TmaFcpMLMffG2jRZxThWjr3udA2WVAPzgpiTk7Vx2VoP5oOzveiq+XqHQeI9O1r8Sasi7Ochl39rDxsDEGeiXHI4UXfQIeDyDqc8Av/KSlAJUjMpbYpCDTbOaSKTpUF4gT6gFUKxyvCjiNNP9PnMOxn5/s7huabhii3GVZ8noxpN1wKyCCOsAzmlLPa/+LavvN9moTzDZk50GOdEypmvRFkcBz7X8VUknK8Hy1VHB4w9OuPFcoUk0jSB8Dc+Z77hbhrzAQW3C75hIrs3TfyuYnx4aDOnH/y6eyNLSExkODnImsi8fPCq2zb3ShRsUHyOwiissFVXQdRtrH6m0iQ1d/j/3KouAyBHtXfaVGXQH7kT3fJlmzagI8b5+jsO66RtNs5d52AZg2RW8NVje/o="
+							}]
+						}
+						Name: "Neck1ch"
+					}
+					display: {
+						Lore: ["[{\"text\":\"И неважно, сколько вокруг тебя будет союзников. Когда ты умираешь, ты всегда одинок.\",\"italic\":false,\"color\":\"white\"}]"]
+						Name: "[{\"text\":\"Голова Неки\",\"italic\":false,\"color\":\"light_purple\"}]"
+					}
+				}
+			}
+			only_one: true
+		}
+		{
+			item: {
+				id: "minecraft:player_head"
+				Count: 1b
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							-51518546
+							1649298911
+							-1994892581
+							1688876214
+						]
+						Properties: {
+							textures: [{
+								Value: "ewogICJ0aW1lc3RhbXAiIDogMTY5MDcxOTU1Mjc4NiwKICAicHJvZmlsZUlkIiA6ICJmY2VkZTNhZTYyNGU0ZGRmODkxODVhZGI2NGFhMzRiNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3B5eGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmMyODQzM2JhYTM0ZDdlZDU2MTBhMGZmNTQ2MmE2MzZlMzE0NjVlMGU5ZDM0M2UzZDEyMDIwMjkwZGY0NWZlMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+								Signature: "eNBxWB5u1TJi9H+GxgO86cf+tY2lyVytYPQhCOunKV8qwhHKYRzHGlN7NhXyFmLH4lGlC3/LD1JfYSWhQ/yr7jPe/HJt5K1ZRoM5dl4lVtmwWcZB3akQS2AELdZUTQCPsOu/QCN1FLr5cqz4VZ9B48zdnrBS6LyVgBiCSnzm5PeGzZ25w0iau+Gp+vSlnzBqsiovTjETanVS1hbFcGlPAG9+lirv3UOa6q7LXvyXwqwQjyFC/n6H7JEQSixFQu9r2Uo1T5n0Fb35tkicnv74Jp7bbMCXQQ9v3VtAfj1HLD20dAaZGXnRJSbHOVjEif4U0G0LQZhg/NI+yCmGaXUkVfLyJOIkQNILywS4apU8wwy/oj4l9b8txrS9EPmmaKNK4QiFyclyxxRQ+tlY/eJwNoTbTmf4jJ5xwP//rXnFf5ChjVxDVffzhtZkvhjyCh1nxEaJT+3GFDpqaSUqaiJtIOICnFgtTn9/Grs0h6SXnlpvwg9sR9eqqi/KaxkPTubyiGk/i1b6NiUENttO8H+jrSm3U8oamE/8IdtwHJJzCw8+elQZ16vkp4Pmcg/xTbf19F8EFm+jaMQKMItf02pORl0+Rpc8Brb8Mtye1y0dedImkQyNQpf29O5SSiisVJ59JQEXCvKVSczOVCVG2Og40qkjOtZ0LI0cO6/6g1HzhTM="
+							}]
+						}
+						Name: "Ropyxa"
+					}
+					display: {
+						Lore: ["[{\"text\":\"Неужели вы верите в то, что переводы легко делать? Я так не думаю\",\"italic\":false,\"color\":\"white\"}]"]
+						Name: "[{\"text\":\"Голова Луки\",\"italic\":false,\"color\":\"light_purple\"}]"
+					}
+				}
+			}
+			only_one: true
+		}
+	]
+	loot_crate: {
+		drops: {
+			boss: 0
+			passive: 0
+			monster: 0
+		}
+		color: 13172854
+		item_name: "Конечный ЛутБокс"
+		string_id: "heads_crate"
+	}
+}
