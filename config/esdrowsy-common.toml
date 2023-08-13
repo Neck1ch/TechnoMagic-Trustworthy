@@ -1,0 +1,38 @@
+
+["Drowsy Effect"]
+	#Days of no sleep before negative effects.
+	#Range: 1 ~ 10
+	drowsyLeniencyDays = 1
+	#Reduce base Movement Speed by % per level.
+	#Range: 0.0 ~ 0.2
+	drowsyMovementSpeedDown = 0.0375
+	#Reduce base Knockback Resistance by % per level.
+	#Range: 0.0 ~ 0.2
+	drowsyKnockbackResistanceDown = 0.05
+	#Reduce total Attack Damage by % per level.
+	#Range: 0.0 ~ 0.2
+	drowsyAttackDamageDown = 0.05
+	#Reduce XP Gain by % per level.
+	#Range: 0.0 ~ 1.0
+	drowsyXPGainDown = 0.075
+	#Reduce mining speed by % per level.
+	#Range: 0.0 ~ 0.1999
+	drowsyMiningSpeedDown = 0.04
+
+["Invigorated Effect"]
+	#Increase base Movement Speed by % per level.
+	#Range: 0.0 ~ 0.2
+	invigoratedMovementSpeedUp = 0.04
+	#Increase base Knockback Resistance by % per level.
+	#Range: 0.0 ~ 0.2
+	invigoratedKnockbackResistanceUp = 0.02
+	#Increase total Attack Damage by % per level.
+	#Range: 0.0 ~ 0.2
+	invigoratedAttackDamageUp = 0.04
+	#Increase XP Gain by % per level.
+	#Range: 0.0 ~ 1.0
+	invigoratedXPGainUp = 0.05
+	#Increase mining speed by % per level.
+	#Range: 0.0 ~ 0.2
+	invigoratedMiningSpeedUp = 0.04
+
